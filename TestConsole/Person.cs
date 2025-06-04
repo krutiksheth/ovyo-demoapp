@@ -1,8 +1,13 @@
+using System;
+using System.Collections.Generic;
+using Newtonsoft.Json;
+
 namespace TestConsole;
 
 public class Result
 {
     public DateTime LastUpdate{ get; set; }
+    [JsonProperty("Person")]
     public List<Person> Persons { get; set; }
 }
 
