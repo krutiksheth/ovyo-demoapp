@@ -1,0 +1,133 @@
+{
+  "lastUpdated": "2025-03-20T17:02:56Z",
+  "person": [
+    {
+      "id": "9oyg8mzw5p2cc47omal5sb5uy",
+      "firstName": "Veronica Anne",
+      "lastName": "Latsko",
+      "shortFirstName": "Veronica",
+      "shortLastName": "Latsko",
+      "matchName": "V. Latsko",
+      "type": "player",
+      "position": "Attacker",
+      "nationalityId": "7hr2f89v44y65dyu9k92vprwn",
+      "nationality": "United States",
+      "membership": [
+        {
+          "contestantId": "bl53jk6zlfe5f583pil7xzwi5",
+          "contestantName": "Seattle Reign FC",
+          "active": "yes",
+          "startDate": "2022-01-14Z",
+          "transfer": {
+            "type": "Transfer",
+            "announcedDate": "2022-01-17Z",
+            "fromContestantId": "c3v2ohfuzoqmc8ljm65hi80sj",
+            "fromContestantName": "Houston Dash"
+          }
+        }
+      ]
+    },
+    {
+      "id": "516s5q2n1hop56c1768x0jbh1",
+      "firstName": "Nichelle Patrice",
+      "lastName": "Prince",
+      "shortFirstName": "Nichelle",
+      "shortLastName": "Prince",
+      "matchName": "N. Prince",
+      "type": "player",
+      "position": "Attacker",
+      "nationalityId": "1iaoypzp6syf32cz9l15pzp7e",
+      "nationality": "Canada",
+      "secondNationalityId": "gimxu1vjwoa2xrecyd9gtyoc",
+      "secondNationality": "Jamaica",
+      "membership": [
+        {
+          "contestantId": "agxipc0vk4rtg09amjxv10nx0",
+          "contestantName": "Kansas City Current",
+          "active": "yes",
+          "startDate": "2024-01-26Z",
+          "transfer": {
+            "type": "Player Swap",
+            "announcedDate": "2024-01-27Z",
+            "fromContestantId": "c3v2ohfuzoqmc8ljm65hi80sj",
+            "fromContestantName": "Houston Dash"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6fl1ruianufxk3wj1cx8rrphx",
+      "firstName": "Abigail Lynn",
+      "lastName": "Dahlkemper",
+      "shortFirstName": "Abby",
+      "shortLastName": "Dahlkemper",
+      "matchName": "A. Dahlkemper",
+      "type": "player",
+      "position": "Defender",
+      "nationalityId": "7hr2f89v44y65dyu9k92vprwn",
+      "nationality": "United States",
+      "membership": [
+        {
+          "contestantId": "eka22bj7co8bw5qxa6qlbinf8",
+          "contestantName": "Bay FC",
+          "active": "yes",
+          "startDate": "2024-08-30Z",
+          "transfer": {
+            "type": "Transfer",
+            "announcedDate": "2024-08-31Z",
+            "fromContestantId": "esvbnzqbyvxp2k570ez7h1a1g",
+            "fromContestantName": "San Diego Wave FC"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4c6z6g6q7jq62bznylu0kjnc9",
+      "firstName": "Lo’eau Kaiulani",
+      "lastName": "LaBonta",
+      "shortFirstName": "Lo'eau",
+      "shortLastName": "LaBonta",
+      "matchName": "L. LaBonta",
+      "type": "player",
+      "position": "Midfielder",
+      "nationalityId": "7hr2f89v44y65dyu9k92vprwn",
+      "nationality": "United States",
+      "membership": [
+        {
+          "contestantId": "agxipc0vk4rtg09amjxv10nx0",
+          "contestantName": "Kansas City Current",
+          "active": "yes",
+          "startDate": "2021-01-01Z",
+          "transfer": {
+            "type": "Transfer",
+            "announcedDate": "2021-01-20Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "270qzf9ig52z04iu3ujnmstg4",
+      "firstName": "Ryan",
+      "lastName": "Gareis",
+      "shortFirstName": "Ryan",
+      "shortLastName": "Gareis",
+      "matchName": "R. Gareis",
+      "type": "player",
+      "position": "Attacker",
+      "nationalityId": "7hr2f89v44y65dyu9k92vprwn",
+      "nationality": "United States",
+      "membership": [
+        {
+          "contestantId": "c3v2ohfuzoqmc8ljm65hi80sj",
+          "contestantName": "Houston Dash",
+          "active": "yes",
+          "startDate": "2022-02-24Z",
+          "transfer": {
+            "type": "Transfer",
+            "announcedDate": "2022-02-24Z"
+          }
+        }
+      ]
+    }
+  ]
+}
