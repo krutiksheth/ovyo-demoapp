@@ -7,7 +7,7 @@ using Newtonsoft.Json;
 using TestConsole;
 
 Console.WriteLine("Hello, World!");
-string filter = "Defender";
+string filter = "defender";
 var personJson= File.ReadAllText("test.json");
 var person = JsonConvert.DeserializeObject<Result>(personJson);
 if (person != null && person.Persons!=null)
