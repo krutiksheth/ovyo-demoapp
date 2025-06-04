@@ -12,7 +12,7 @@ var personJson= File.ReadAllText("test.json");
 var person = JsonConvert.DeserializeObject<Result>(personJson);
 if (person != null && person.Persons!=null)
 {
-    var filteredResult = person.Persons.Find(z => z.Position.ToLower() == filter);
+    var filteredResult = person.Persons.FindAll(z => z.Position.ToLower() == filter);
 }
 
 
